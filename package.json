@@ -1,7 +1,7 @@
 {
-  "name": "react-bootstrap",
+  "name": "luis-contreras-react-portfolio",
   "version": "1.0.0",
-  "description": "Basic skeleton codebase for React with Bootstrap applications.",
+  "description": "Personal portfolio app build in React",
   "scripts": {
     "preinstall": "npm set audit false",
     "start": "webpack-dev-server --config webpack/dev.config.js --watch",
